@@ -1,0 +1,2 @@
+# Land_page_openinstall_Common_tools
+方便快捷的使落地页接入openinstall，支持自定义下载地址，自定义下载触发方式等，提高openinstall安装成功率
